@@ -26,3 +26,5 @@ console.log(class1);
 // 8) All elements with a class of over-image-text
 let image3 = document.querySelectorAll('.over-image-text');
 console.log(image3);
+
+console.log("Pairing!")
